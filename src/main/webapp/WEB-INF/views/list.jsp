@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Shopping List!</title>
 </head>
 <body>
 <h1>
